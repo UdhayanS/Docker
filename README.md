@@ -1,4 +1,5 @@
-![Docker Logo]([https://upload.wikimedia.org/wikipedia/commons/3/39/Docker_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ADocker_%2528container_engine%2529_logo.png&psig=AOvVaw2gYMaAR9i1CkiuYlR8R0Ui&ust=1733554711234000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICDvtjIkooDFQAAAAAdAAAAABAJ))
+![Docker Logo](https://images.app.goo.gl/NY55npocuMiy9DE6A)
+
 
 # Docker Basics
 
