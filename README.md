@@ -38,4 +38,19 @@ FROM alpine:latest
 # Command to execute when the container starts
 CMD ["echo", "Hello, World!"]
 ```
-jh
+### Steps to Build and Run this Dockerfile
+
+Create a new directory and create a Dockerfile inside it.
+Build the Docker image:
+
+```bash
+docker build -t hello-world-image .
+```
+Run the Docker container
+
+```bash
+docker run hello-world-image
+
+```
+
+
