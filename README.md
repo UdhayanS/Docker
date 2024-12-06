@@ -38,7 +38,7 @@ FROM alpine:latest
 # Command to execute when the container starts
 CMD ["echo", "Hello, World!"]
 ```
-### Steps to Build and Run this Dockerfile
+### 3. Steps to Build and Run this Dockerfile
 
 Create a new directory and create a Dockerfile inside it.
 Build the Docker image:
