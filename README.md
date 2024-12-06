@@ -38,8 +38,22 @@ FROM alpine:latest
 # Command to execute when the container starts
 CMD ["echo", "Hello, World!"]
 
-##Build the Docker Image
-docker build -t hello-world-app .
+2. Build the Docker Image
+Use the docker build command to create an image from the Dockerfile:
 
-##Run the Docker Container
+bash
+
+docker build -t hello-world-app .
+-t hello-world-app: Tags the image with the name hello-world-app.
+.: Refers to the current directory containing the Dockerfile.
+3. Run the Docker Container
+Run a container from the built image using the docker run command:
+
+bash
+
 docker run hello-world-app
+Expected Output:
+
+plaintext
+Copy code
+Hello, World!
