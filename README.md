@@ -1,3 +1,5 @@
+![Docker Logo](https://upload.wikimedia.org/wikipedia/commons/3/39/Docker_logo.png)
+
 # Docker Basics
 
 This guide covers the fundamentals of Docker, including creating Docker images, building, running containers, and common Docker commands.
